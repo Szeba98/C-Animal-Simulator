@@ -1,0 +1,9 @@
+D:\Gyakorlas\C#\Simulator\Simulator\bin\Debug\Simulator.exe.config
+D:\Gyakorlas\C#\Simulator\Simulator\bin\Debug\Simulator.exe
+D:\Gyakorlas\C#\Simulator\Simulator\bin\Debug\Simulator.pdb
+D:\Gyakorlas\C#\Simulator\Simulator\obj\Debug\Simulator.csprojResolveAssemblyReference.cache
+D:\Gyakorlas\C#\Simulator\Simulator\obj\Debug\Simulator.Form1.resources
+D:\Gyakorlas\C#\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+D:\Gyakorlas\C#\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.Cache
+D:\Gyakorlas\C#\Simulator\Simulator\obj\Debug\Simulator.exe
+D:\Gyakorlas\C#\Simulator\Simulator\obj\Debug\Simulator.pdb
